@@ -19,8 +19,6 @@ public class Task7 {
 
 			if(listOfTechnologies.get(i).contains("Mobile"))
 				System.out.println("True");
-			else
-				System.out.println("False");
 		}
 
 	}
